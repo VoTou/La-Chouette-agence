@@ -659,7 +659,7 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 700;
 }
 
@@ -706,7 +706,7 @@ p {
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 600;
     line-height: 1.4em;
 }
@@ -1059,4 +1059,17 @@ h4 {
 
 .nom_citation {
     font-size: 15px;
+}
+
+.graissage-pret {
+    position: relative;
+    color: #FFF!important;
+    font-weight: 900;
+    z-index: 99;
+    padding: 0 20px!important;
+}
+
+.text-size {
+    font-size: 18px;
+    font-weight: 500;
 }
