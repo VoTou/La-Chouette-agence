@@ -659,7 +659,7 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 50px;
+    font-size: 45px;
     font-weight: 700;
 }
 
@@ -701,6 +701,8 @@ p {
 }
 
 .social {
+    display: flex;
+    justify-content: center;
     max-width: 400px;
     margin: auto auto auto auto;
 }
@@ -1049,15 +1051,22 @@ h4 {
         text-align: center;
     }
     .col-sm-6 {
-        margin-bottom: 20px;
-        margin-top: 20px;
+        margin: 20px auto;
+        
     }
     .portfolio-row {
-        margin: 0;
+        margin: 0 auto;
     }
     .container .mg-md {
         margin-bottom: 5px;
     }
+    .bloc-lg {
+        margin: 0 auto;
+    }
+    .social {
+        justify-content: space-between;
+    }
+    
 }
 
 .citation {
