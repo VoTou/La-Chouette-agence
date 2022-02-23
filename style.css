@@ -1055,7 +1055,7 @@ h4 {
     .portfolio-row {
         margin: 0;
     }
-    .mg-md {
+    .container .mg-md {
         margin-bottom: 5px;
     }
 }
