@@ -150,7 +150,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgb(0, 0, 0);
+    color: rgba(255, 255, 255, 1);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -1094,13 +1094,4 @@ h4 {
 
 .col-sm-6 img {
     margin: 0 auto;
-}
-
-.black {
-    color: #000!important;
-    font-size: 18px!important;
-}
-
-footer a:hover {
-    color: #000!important;
 }
