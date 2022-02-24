@@ -1094,6 +1094,8 @@ h4 {
 
 .col-sm-6 img {
     margin: 0 auto;
+    width: 270px;
+    height: 270px;
 }
 
 .black {
